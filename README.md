@@ -1,6 +1,6 @@
 # Simple-Dns-Enumerator
 A simple bash script to automate dig command for dns enumeration
 
-#USAGE
+# USAGE
 
 sh dns_recon.sh <target domain>
